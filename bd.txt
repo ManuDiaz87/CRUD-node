@@ -1,0 +1,5 @@
+host: bozfvelpciqcc3gxgpfx-mysql.services.clever-cloud.com
+db: bozfvelpciqcc3gxgpfx
+user: ueoiiqka7ljhcuhm
+pass: GURHeOBDXTDO1jQYIwzB
+port:3306
