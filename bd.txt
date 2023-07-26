@@ -3,3 +3,9 @@ db: bozfvelpciqcc3gxgpfx
 user: ueoiiqka7ljhcuhm
 pass: GURHeOBDXTDO1jQYIwzB
 port:3306
+
+MYSQL_ADDON_HOST=bozfvelpciqcc3gxgpfx-mysql.services.clever-cloud.com
+MYSQL_ADDON_DB=bozfvelpciqcc3gxgpfx
+MYSQL_ADDON_USER=ueoiiqka7ljhcuhm
+MYSQL_ADDON_PORT=3306
+MYSQL_ADDON_PASSWORD=GURHeOBDXTDO1jQYIwzB
